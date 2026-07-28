@@ -27,7 +27,7 @@ I'm **小瑞**。
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/xiaoruixsss/wandr-map">01 / Wandr 慢地图</a></strong><br><br>
+      <strong>01 / <a href="https://github.com/xiaoruixsss/wandr-map">Wandr 慢地图</a></strong><br><br>
       用自然语言理解距离、地形、氛围与季节偏好，帮助用户发现“这个周末想去的地方”。<br><br>
       <code>AI Discovery</code> <code>SwiftUI</code> <code>FastAPI</code>
     </td>
