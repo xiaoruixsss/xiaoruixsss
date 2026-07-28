@@ -19,14 +19,33 @@
 
 ## ✍️ Selected Writing / 代表文章
 
-以下均为署名 **“小瑞”** 或 **“徐雨姗”** 的公开作品，发布于「数字生命卡兹克」与「学习强国」AI 频道。
+长期关注 AI 产品、行业趋势与技术现象，持续输出产品实测、实践复盘、行业观察与社会议题内容。
 
-- `产品体验` [接入 DeepSeek 后的自由画布，做 PPT 还真的有点强](https://mp.weixin.qq.com/s/eAxN4Oocf3wKlV7-i1ushQ)
-- `产品体验` [接入了 DeepSeek 后的飞书，强大到我有点陌生](https://mp.weixin.qq.com/s/Rcxlb6ykyngTIJRt_nLdEQ)
-- `实践复盘` [用 AI 把 PDF 一键变成能玩的可视化网页，这不比 PPT 酷多了](https://mp.weixin.qq.com/s/JVxbbkR587_Mxpu02k29Kw)
-- `现象解读` [对于那些出来卖的 DeepSeek 课程，我有些话想说](https://mp.weixin.qq.com/s/0JdYJcEEfnRTI6e3sI8COw)
-- `现象解读` [倒反天罡，人类研究起模仿 AI 了](https://mp.weixin.qq.com/s/NYbUNPAzvLcrK5sKlYnpgA)
-- `平台项目` [「学习强国」AI 频道上线发布会暨人工智能创新发展论坛在京举行](https://article.xuexi.cn/articles/index.html?art_id=16526911957341721478)
+### 产品体验
+
+- [接入 DeepSeek 后的自由画布，做 PPT 还真的有点强](https://mp.weixin.qq.com/s/eAxN4Oocf3wKlV7-i1ushQ) — 数字生命卡兹克｜小瑞
+- [接入了 DeepSeek 后的飞书，强大到我有点陌生](https://mp.weixin.qq.com/s/Rcxlb6ykyngTIJRt_nLdEQ) — 数字生命卡兹克｜小瑞
+- [测了一个 9B 开源模型，AI 视频对话终于不像对讲机了](https://mp.weixin.qq.com/s/iyn1dxt8fsDBh9u8PM3TEQ) — 夕小瑶科技说｜R.Zen
+
+### 实践复盘
+
+- [用 AI 把 PDF 一键变成能玩的可视化网页，这不比 PPT 酷多了](https://mp.weixin.qq.com/s/JVxbbkR587_Mxpu02k29Kw) — 数字生命卡兹克｜小瑞
+- [我用 Claude Code 开发了一个微信小程序：实测 78 个 Skills，这 5 个组合最香](https://mp.weixin.qq.com/s/Uc5u1N4D8HVkKuILhe8EAQ) — 夕小瑶科技说｜R.Zen
+
+### 行业观察
+
+- [硅谷大佬集体下场做 Neo Labs｜盘点估值最高的 20 家](https://mp.weixin.qq.com/s/4qlxgz1wFSA6yxBhFA9Z2A) — 十字路口｜rui
+- [AI 真的能改变游戏吗？｜任天堂最近给出了一个很有意思的答案](https://mp.weixin.qq.com/s/3ydbcwoWlDCR_ay2nb_tGw) — 十字路口｜rui
+
+### 现象解读
+
+- [对于那些出来卖的 DeepSeek 课程，我有些话想说](https://mp.weixin.qq.com/s/0JdYJcEEfnRTI6e3sI8COw) — 数字生命卡兹克｜小瑞
+- [倒反天罡，人类研究起模仿 AI 了](https://mp.weixin.qq.com/s/NYbUNPAzvLcrK5sKlYnpgA) — 数字生命卡兹克｜小瑞
+- [用 AI 图的外卖，我是一个都不敢点](https://mp.weixin.qq.com/s/D5eQZSgP6ahzGNH-7vSDtQ) — 夕小瑶科技说｜R.Zen
+
+### 平台项目稿
+
+- [「学习强国」AI 频道上线发布会暨人工智能创新发展论坛在京举行](https://article.xuexi.cn/articles/index.html?art_id=16526911957341721478) — 「学习强国」AI 频道通讯员徐雨姗
 
 ## 🛠️ Toolkit / 能力工具箱
 
