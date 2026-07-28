@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Selected writing in four categories" data-theme="light">
+  <defs>
+    <pattern id="ticks" width="12" height="12" patternUnits="userSpaceOnUse">
+      <path d="M0 12L12 0" stroke="#5C4444" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <style>
+    .serif{font-family:"Songti SC","Noto Serif CJK SC",Georgia,serif}
+    .sans{font-family:"Avenir Next","PingFang SC","Noto Sans CJK SC",sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+    .card{animation:rise .65s cubic-bezier(.2,.8,.2,1) both}
+    .c2{animation-delay:.08s}.c3{animation-delay:.16s}.c4{animation-delay:.24s}
+    .route{stroke-dasharray:4 8;animation:route 10s linear infinite}
+    .marker{animation:marker 8s ease-in-out infinite}
+    @keyframes rise{from{opacity:.1;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes route{to{stroke-dashoffset:-144}}
+    @keyframes marker{0%,100%{transform:translateX(0)}50%{transform:translateX(840px)}}
+    @media(prefers-reduced-motion:reduce){.card,.route,.marker{animation:none}}
+  </style>
+
+  <rect width="1200" height="250" rx="22" fill="#EDE7D5"/>
+  <rect x="12" y="12" width="1176" height="226" rx="16" fill="url(#ticks)" stroke="#5C4444" stroke-opacity=".3"/>
+  <rect x="34" y="32" width="180" height="186" rx="12" fill="#5C4444"/>
+  <text x="56" y="64" class="mono" font-size="10" letter-spacing="2.6" fill="#B4CFCB">WRITING INDEX</text>
+  <text x="54" y="133" class="serif" font-size="42" font-weight="700" fill="#EDE7D5">四种</text>
+  <text x="54" y="177" class="serif" font-size="42" font-style="italic" fill="#EDE7D5">观察</text>
+  <text x="56" y="202" class="mono" font-size="9" letter-spacing="2" fill="#B4CFCB">10 PUBLIC PIECES</text>
+
+  <path class="route" d="M252 186H1129" stroke="#5C4444" stroke-width="2" stroke-opacity=".45"/>
+  <g class="marker">
+    <circle cx="270" cy="186" r="7" fill="#5C4444"/>
+    <circle cx="270" cy="186" r="13" fill="none" stroke="#5C4444" stroke-opacity=".25"/>
+  </g>
+
+  <g class="card">
+    <rect x="252" y="41" width="205" height="119" rx="13" fill="#B4CFCB" fill-opacity=".78" stroke="#5C4444" stroke-opacity=".24"/>
+    <text x="272" y="73" class="mono" font-size="10" letter-spacing="2" fill="#5C4444">01 / EXPERIENCE</text>
+    <text x="272" y="115" class="serif" font-size="25" font-weight="700" fill="#5C4444">产品体验</text>
+    <text x="427" y="142" text-anchor="end" class="mono" font-size="11" letter-spacing="1.5" fill="#5C4444">03 PIECES</text>
+  </g>
+  <g class="card c2">
+    <rect x="474" y="58" width="205" height="102" rx="13" fill="#F7F2E6" stroke="#5C4444" stroke-opacity=".3"/>
+    <text x="494" y="89" class="mono" font-size="10" letter-spacing="2" fill="#5C4444">02 / PRACTICE</text>
+    <text x="494" y="130" class="serif" font-size="25" font-weight="700" fill="#5C4444">实践复盘</text>
+    <text x="649" y="146" text-anchor="end" class="mono" font-size="10" letter-spacing="1.3" fill="#5C4444">02 PIECES</text>
+  </g>
+  <g class="card c3">
+    <rect x="696" y="41" width="205" height="119" rx="13" fill="#5C4444"/>
+    <text x="716" y="73" class="mono" font-size="10" letter-spacing="2" fill="#B4CFCB">03 / INDUSTRY</text>
+    <text x="716" y="115" class="serif" font-size="25" font-weight="700" fill="#EDE7D5">行业观察</text>
+    <text x="871" y="142" text-anchor="end" class="mono" font-size="11" letter-spacing="1.5" fill="#B4CFCB">02 PIECES</text>
+  </g>
+  <g class="card c4">
+    <rect x="918" y="58" width="232" height="102" rx="13" fill="#B4CFCB" fill-opacity=".5" stroke="#5C4444" stroke-opacity=".3"/>
+    <text x="938" y="89" class="mono" font-size="10" letter-spacing="2" fill="#5C4444">04 / CULTURE</text>
+    <text x="938" y="130" class="serif" font-size="25" font-weight="700" fill="#5C4444">现象解读</text>
+    <text x="1120" y="146" text-anchor="end" class="mono" font-size="10" letter-spacing="1.3" fill="#5C4444">03 PIECES</text>
+  </g>
+</svg>

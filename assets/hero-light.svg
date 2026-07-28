@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="I'm 小瑞, AI Product field notes" data-theme="light">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7F2E6"/>
+      <stop offset=".58" stop-color="#EDE7D5"/>
+      <stop offset="1" stop-color="#DCE8E3"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#5C4444" stroke-opacity=".075"/>
+    </pattern>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".78" numOctaves="2" seed="17"/>
+      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .045 0"/>
+    </filter>
+  </defs>
+  <style>
+    .display{font-family:"Songti SC","Noto Serif CJK SC",Georgia,serif}
+    .sans{font-family:"Avenir Next","PingFang SC","Noto Sans CJK SC",sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+    .enter{animation:enter .8s cubic-bezier(.2,.8,.2,1) both}
+    .late{animation-delay:.18s}
+    .dash{stroke-dasharray:5 10;animation:dash 12s linear infinite}
+    .orbit-a{transform-origin:946px 207px;animation:orbit 14s linear infinite}
+    .orbit-b{transform-origin:946px 207px;animation:orbitBack 9s linear infinite}
+    .pulse{animation:pulse 3.8s ease-in-out infinite}
+    @keyframes enter{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes dash{to{stroke-dashoffset:-180}}
+    @keyframes orbit{to{transform:rotate(360deg)}}
+    @keyframes orbitBack{to{transform:rotate(-360deg)}}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.enter,.dash,.orbit-a,.orbit-b,.pulse{animation:none}}
+  </style>
+
+  <rect width="1200" height="420" fill="url(#paper)"/>
+  <rect x="14" y="14" width="1172" height="392" rx="26" fill="none" stroke="#5C4444" stroke-opacity=".32"/>
+  <rect x="14" y="14" width="1172" height="392" rx="26" fill="url(#grid)"/>
+
+  <path d="M38 40H1162" stroke="#5C4444" stroke-opacity=".2"/>
+  <text x="48" y="67" class="mono" font-size="11" letter-spacing="3.2" fill="#5C4444">AI PRODUCT FIELD NOTES</text>
+  <text x="1152" y="67" text-anchor="end" class="mono" font-size="10" letter-spacing="2.2" fill="#5C4444" opacity=".72">VOL. 01 / BUILT WITH CURIOSITY</text>
+
+  <g class="enter">
+    <rect x="48" y="105" width="9" height="178" rx="4.5" fill="#5C4444"/>
+    <rect x="48" y="292" width="9" height="51" rx="4.5" fill="#B4CFCB"/>
+    <text x="84" y="150" class="mono" font-size="13" letter-spacing="4.8" fill="#5C4444">I'M</text>
+    <text x="79" y="246" class="display" font-size="98" font-weight="700" letter-spacing="-5" fill="#5C4444">小瑞</text>
+    <text x="84" y="290" class="sans" font-size="19" font-weight="600" fill="#5C4444">AI 产品经理 / 统计学 / 产品写作</text>
+    <path d="M84 316H655" stroke="#5C4444" stroke-opacity=".28"/>
+    <text x="84" y="344" class="sans" font-size="14" fill="#5C4444" opacity=".82">Turning ambiguous questions into testable products.</text>
+  </g>
+
+  <g class="enter late">
+    <path class="dash" d="M733 207C773 94 876 66 958 91C1053 120 1093 224 1047 304C1009 369 899 371 822 318C755 272 733 207 733 207Z" fill="none" stroke="#5C4444" stroke-width="2" stroke-opacity=".55"/>
+    <circle cx="946" cy="207" r="112" fill="#B4CFCB" fill-opacity=".28" stroke="#5C4444" stroke-opacity=".28"/>
+    <circle cx="946" cy="207" r="73" fill="#EDE7D5" fill-opacity=".82" stroke="#5C4444" stroke-opacity=".2"/>
+    <circle cx="946" cy="207" r="17" fill="#5C4444"/>
+    <circle cx="946" cy="207" r="7" fill="#EDE7D5" class="pulse"/>
+
+    <g class="orbit-a">
+      <circle cx="946" cy="84" r="11" fill="#5C4444"/>
+      <circle cx="946" cy="84" r="20" fill="none" stroke="#5C4444" stroke-opacity=".28"/>
+    </g>
+    <g class="orbit-b">
+      <circle cx="1030" cy="207" r="9" fill="#B4CFCB" stroke="#5C4444"/>
+    </g>
+
+    <rect x="714" y="116" width="116" height="31" rx="15.5" fill="#5C4444"/>
+    <text x="772" y="136" text-anchor="middle" class="mono" font-size="9" letter-spacing="1.6" fill="#EDE7D5">DISCOVER</text>
+    <rect x="1050" y="116" width="100" height="31" rx="15.5" fill="#B4CFCB"/>
+    <text x="1100" y="136" text-anchor="middle" class="mono" font-size="9" letter-spacing="1.6" fill="#5C4444">FRAME</text>
+    <rect x="1072" y="286" width="78" height="31" rx="15.5" fill="#5C4444"/>
+    <text x="1111" y="306" text-anchor="middle" class="mono" font-size="9" letter-spacing="1.6" fill="#EDE7D5">BUILD</text>
+    <rect x="716" y="286" width="101" height="31" rx="15.5" fill="#B4CFCB"/>
+    <text x="766.5" y="306" text-anchor="middle" class="mono" font-size="9" letter-spacing="1.6" fill="#5C4444">VALIDATE</text>
+    <text x="946" y="186" text-anchor="middle" class="mono" font-size="9" letter-spacing="2.4" fill="#5C4444" opacity=".64">PRODUCT</text>
+    <text x="946" y="239" text-anchor="middle" class="display" font-size="22" font-style="italic" fill="#5C4444">closed loop</text>
+  </g>
+
+  <rect x="48" y="374" width="172" height="5" rx="2.5" fill="#5C4444"/>
+  <rect x="228" y="374" width="92" height="5" rx="2.5" fill="#B4CFCB"/>
+  <rect x="328" y="374" width="38" height="5" rx="2.5" fill="#5C4444" opacity=".34"/>
+  <text x="1152" y="381" text-anchor="end" class="mono" font-size="9" letter-spacing="2.1" fill="#5C4444" opacity=".7">AGENT / DATA / BUILD / WRITE</text>
+
+  <rect x="14" y="14" width="1172" height="392" rx="26" filter="url(#grain)" opacity=".24" pointer-events="none"/>
+</svg>
