@@ -1,124 +1,45 @@
-<div align="center">
+# Hi there, I'm 徐雨姗 / Xiaorui 👋
 
-<img width="100%" src="assets/profile-header.svg?v=1" alt="徐雨姗 Xiaorui — AI Product Manager" />
-
-</div>
-
-<br />
-
-<p align="center">
-  <strong>把模糊需求变成可验证的 AI 产品。</strong>
-  <br />
-  <sub>Turning ambiguous problems into testable AI products.</sub>
-</p>
-
-## Selected Work / 代表项目
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="assets/wandr.svg" width="88" height="88" alt="Wandr" />
-      <br />
-      <sub><strong>Wandr 慢地图</strong></sub>
-      <br />
-      <sub>AI Travel Discovery</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="assets/financial-agent.svg" width="88" height="88" alt="Financial Report Agent" />
-      <br />
-      <sub><strong>Financial Agent</strong></sub>
-      <br />
-      <sub>AI Data Workspace</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://xiaoruiss.com">
-        <img src="assets/puka.svg" width="88" height="88" alt="PUKA Online" />
-      </a>
-      <br />
-      <sub><strong>PUKA Online</strong></sub>
-      <br />
-      <sub>Realtime Card Game</sub>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/xiaoruixsss/ui-design-guidelines-skill">
-        <img src="assets/ui-guidelines.svg" width="88" height="88" alt="UI Design Guidelines Skill" />
-      </a>
-      <br />
-      <sub><strong>UI Guidelines</strong></sub>
-      <br />
-      <sub>Open-source AI Skill</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-## About / 关于我
-
-我是徐雨姗，湖南大学统计学本科生，方向是 **AI 产品经理**。我关注 Agent / Workflow、数据产品与 AI Coding，习惯从真实业务问题出发，把需求梳理、产品方案、原型开发和效果验证连成闭环。
-
-- **AI Product** — Agent 工作流、Prompt Engineering、Bad Case 分析与迭代
-- **Data & Insight** — 指标体系、结构化分析、数据可视化与效果评估
-- **Build to Learn** — 用可运行原型验证产品判断，而不止停留在方案文档
-
-## Projects / 项目案例
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Wandr · 慢地图</h3>
-      <p>用自然语言描述“想去哪”，通过非导航的手绘地图完成旅行灵感发现。独立推进产品定位、核心交互与 SwiftUI + FastAPI MVP。</p>
-      <p><strong>Evidence</strong>：沉淀 500+ 目的地数据，打通探索、收藏、旅行记录与多人共享的核心链路。</p>
-      <p><code>AI Discovery</code> <code>SwiftUI</code> <code>FastAPI</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Financial Report Agent</h3>
-      <p>面向复杂财报数据的 AI Data Workspace，围绕 Query 解析、指标映射、结构化查询、图表分析与来源追溯设计产品链路。</p>
-      <p><strong>Evidence</strong>：已完成真实 Excel 导入、基础问数/趋势/对比能力和验证脚本；真实 LLM 与单一数据链路仍在迭代。</p>
-      <p><code>Agent</code> <code>Next.js</code> <code>SQL</code> <code>ECharts</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>PUKA Online</h3>
-      <p>把复杂牌局拆解为可理解、可联机的策略卡牌产品，覆盖真人房间、AI 补位、断线重连与账户状态持久化。</p>
-      <p><strong>Evidence</strong>：Web 与实时服务已部署，生产现金桌主链路 E2E 验证通过。</p>
-      <p><a href="https://xiaoruiss.com"><strong>Live Demo →</strong></a></p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Socket.IO</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>UI Design Guidelines Skill</h3>
-      <p>为 AI Coding 提供跨平台 UI/UX 设计边界，覆盖布局、交互状态、无障碍与验收清单，减少“能运行但不好用”的前端输出。</p>
-      <p><strong>Evidence</strong>：公开仓库包含规范路由、输出契约与只读自动检测脚本。</p>
-      <p><a href="https://github.com/xiaoruixsss/ui-design-guidelines-skill"><strong>View Repository →</strong></a></p>
-      <p><code>Codex Skill</code> <code>Python</code> <code>UI/UX</code></p>
-    </td>
-  </tr>
-</table>
-
-## How I Work / 工作方式
-
-| 01 · Discover | 02 · Structure | 03 · Ship | 04 · Validate |
-| --- | --- | --- | --- |
-| 用户与业务调研，定位真实问题 | 拆解流程、对象、分支与指标 | 用 PRD、Workflow 和原型推进落地 | 用测试、Bad Case 与数据持续迭代 |
-
-## Toolkit / 能力工具箱
-
-**Product**<br />
-User Research · PRD · Agent / Workflow · Prompt Engineering · Bad Case Analysis
-
-**Data**<br />
-Python · R · SQL · Excel · Tableau · Data Visualization
-
-**Build**<br />
-TypeScript · Next.js · FastAPI · SwiftUI · Git / GitHub
+🎯 **AI 产品经理** | Statistics @ Hunan University · Class of 2027
 
 ---
 
-<p align="center">
-  <strong>Open to AI Product opportunities.</strong>
-  <br />
-  <sub>更多经历与联系方式请见我的简历。</sub>
-</p>
+- 💡 关注 **Agent / Workflow、数据产品与 AI Coding**
+- 🧭 习惯从真实业务问题出发，把需求调研、产品方案、原型开发和效果验证连成闭环
+- 📊 统计学背景，重视指标口径、Bad Case 和可验证的产品结果
+- ✍️ 持续写作 AI 产品体验、实践复盘与行业观察
+- 🌱 Open to AI Product opportunities
+
+## 🧩 Building / 正在做
+
+- **Wandr 慢地图** — 用自然语言理解距离、地形、氛围与季节偏好，帮助用户发现“这个周末想去的地方”
+- **Financial Report Agent** — 面向结构化财报数据的 AI Data Workspace，覆盖指标映射、自然语言问数、图表分析与来源追溯
+- **[PUKA Online](https://xiaoruiss.com)** — 可实时联机的策略卡牌产品，覆盖房间、AI 补位、断线重连与状态持久化
+- **[UI Design Guidelines Skill](https://github.com/xiaoruixsss/ui-design-guidelines-skill)** — 为 AI Coding 提供跨平台 UI/UX 设计边界和验收清单
+
+## ✍️ Selected Writing / 代表文章
+
+以下均为署名 **“小瑞”** 或 **“徐雨姗”** 的公开作品，发布于「数字生命卡兹克」与「学习强国」AI 频道。
+
+- `产品体验` [接入 DeepSeek 后的自由画布，做 PPT 还真的有点强](https://mp.weixin.qq.com/s/eAxN4Oocf3wKlV7-i1ushQ)
+- `产品体验` [接入了 DeepSeek 后的飞书，强大到我有点陌生](https://mp.weixin.qq.com/s/Rcxlb6ykyngTIJRt_nLdEQ)
+- `实践复盘` [用 AI 把 PDF 一键变成能玩的可视化网页，这不比 PPT 酷多了](https://mp.weixin.qq.com/s/JVxbbkR587_Mxpu02k29Kw)
+- `现象解读` [对于那些出来卖的 DeepSeek 课程，我有些话想说](https://mp.weixin.qq.com/s/0JdYJcEEfnRTI6e3sI8COw)
+- `现象解读` [倒反天罡，人类研究起模仿 AI 了](https://mp.weixin.qq.com/s/NYbUNPAzvLcrK5sKlYnpgA)
+- `平台项目` [「学习强国」AI 频道上线发布会暨人工智能创新发展论坛在京举行](https://article.xuexi.cn/articles/index.html?art_id=16526911957341721478)
+
+## 🛠️ Toolkit / 能力工具箱
+
+- **Product** — User Research · PRD · Agent / Workflow · Prompt Engineering · Bad Case Analysis
+- **Data** — Python · R · SQL · Excel · Tableau · Data Visualization
+- **Build** — TypeScript · Next.js · FastAPI · SwiftUI · Git / GitHub
+
+## 📬 Contact
+
+- GitHub: [@xiaoruixsss](https://github.com/xiaoruixsss)
+- Live project: [xiaoruiss.com](https://xiaoruiss.com)
+- 更多经历与联系方式请见我的简历
+
+---
+
+> 我更关心 AI 有没有真正进入任务、改变流程，并产生可验证的结果。

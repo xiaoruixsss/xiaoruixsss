@@ -1,9 +1,0 @@
-<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <title>PUKA Online</title>
-  <rect x="4" y="4" width="152" height="152" rx="34" fill="#D96B52" />
-  <rect x="33" y="25" width="94" height="110" rx="17" fill="#F9F7F1" stroke="#183547" stroke-width="5" />
-  <path d="M57 103V57H81C96 57 105 65 105 79C105 93 96 101 81 101H66" stroke="#183547" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
-  <path d="M48 42L54 48L48 54L42 48L48 42Z" fill="#D96B52" />
-  <path d="M112 106L118 112L112 118L106 112L112 106Z" fill="#D96B52" />
-  <circle cx="80" cy="80" r="56" stroke="#F1C670" stroke-width="3" stroke-dasharray="5 8" />
-</svg>
